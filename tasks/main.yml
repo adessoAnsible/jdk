@@ -2,4 +2,4 @@
 - name: Install jdk
   apt:
     name: openjdk-8-jdk
-    state: installed
+    state: present
